@@ -5,3 +5,6 @@
 Key points:
 - Encapsulate the type writer effect as a component.
 - Use the hook 'UseEffect' to implement type writer effect.
+
+Fun fact:
+- Passing the challange does not guarantee any interviews.
