@@ -10,4 +10,4 @@ Fun fact:
 - Passing the challange does not guarantee any interviews nor placement.
 
 Other notes:
-- Leave a comment or like if this helped you.
+- Leave a star if this helped you.
