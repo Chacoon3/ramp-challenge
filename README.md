@@ -7,4 +7,4 @@ Key points:
 - Use the hook 'UseEffect' to implement type writer effect.
 
 Fun fact:
-- Passing the challange does not guarantee any interviews.
+- Passing the challange does not guarantee any interviews nor placement.
