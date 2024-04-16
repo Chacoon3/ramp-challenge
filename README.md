@@ -8,6 +8,3 @@ Key points:
 
 Fun fact:
 - Passing the challange does not guarantee any interviews nor placement.
-
-Other notes:
-- Leave a star if this helped you.
